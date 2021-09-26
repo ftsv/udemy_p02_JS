@@ -1,1 +1,1 @@
-# udemy_JS_advanced
+# udemy_JS_advanced course

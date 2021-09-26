@@ -1,1 +1,1 @@
-# udemy_p02_JS
+# udemy_JS_advanced
